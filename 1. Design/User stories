@@ -6,4 +6,11 @@ US1: De slecht georganiseerde planner wil een overzicht kunnen zien van alle tak
         - Via de toolbar gaat de slecht georganiseerde planner naar een weekoverzicht met alle taken die deze week worden ingepland.
         - Via de toolbar gaat de slecht georganiseerde planner naar een andere pagina waar alle taken in lijsten worden verdeeld op basis van categorie,
           Binnen deze lijsten zijn drie onderliggende vakjes te zien op basis van deadline-periode (week, maand, kwartaal).
-        - Taken worden opgeslagen in een database
+        
+
+Definition of done
+    - informatie wordt opgeslagen in een database
+    - Alle functies zijn getest in de front-end en back-end.
+    - Code wordt bijgewerkt in Github
+    - Github maakt gebruik van CI/CD
+    - Gemaakte design keuzes zijn gedocumenteerd
