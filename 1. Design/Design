@@ -1,9 +1,1 @@
-User stories:
-US1: De slecht georganiseerde planner wil een overzicht kunnen zien van alle taken zodat hij kan zien welke taken er ingepland gaan worden en 
-    met een gerust hart verder kan met zijn dag.
-        - Bij het openen van de applicatie is een simpele to-do list te zien van de huidige dag zodat de slecht georganiseerde planner niet wordt overspoeld
-          met alle taken en kan focussen op de huidige dag.
-        - Via de toolbar gaat de slecht georganiseerde planner naar een weekoverzicht met alle taken die deze week worden ingepland.
-        - Via de toolbar gaat de slecht georganiseerde planner naar een andere pagina waar alle taken in lijsten worden verdeeld op basis van categorie,
-          Binnen deze lijsten zijn drie onderliggende vakjes te zien op basis van deadline-periode (week, maand, kwartaal).
-  
+
