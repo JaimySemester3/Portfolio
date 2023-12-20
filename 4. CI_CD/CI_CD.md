@@ -90,3 +90,14 @@ De workflow ziet er als volgt uit:
 
 In deze workflow heb ik ook geprobeerd om de code coverage op te vragen, maar dit is nog niet gelukt. Hiervoor moet ik via de terminal van mijn applicatie een code coverage report opvragen, en dit doorgeven aan sonarcloud.
 
+**Azure**
+
+Om over gebruik te kunnen maken van mijn applicatie, heb ik de back-end van mijn applicatie gehost op azure. Dit heb ik gedaan door op de Portal van Azure een nieuwe webapplicatie aan te maken.
+
+Vervolgens heb ik via de portal een Workflow toegevoegd aan mijn repository die automatisch deployed naar Azure wanneer er naar de main branch wordt gepushed.
+
+Belangrijk hierbij is dat de database niet automatisch werkt, omdat de connectionstring niet op Github wordt opgeslagen. Hiervoor zal ik naar Azure secrets moeten kijken, zodat deze veilig online kan worden opgeslagen.
+
+**Vercel**
+
+Om ook de front-end de hosten maak ik gebruik van Vercel. Hierbij is het mogelijk om de applicatie via een domein te benaderen. Wel is het zo dat mijn applicate in een organisation staat, en Vercel dit alleen met een pro-account toestaat. Hier moet ik een alternatief op verzinnen.
