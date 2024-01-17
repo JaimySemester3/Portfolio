@@ -100,16 +100,16 @@ Vervolgens heb ik via de portal een Workflow toegevoegd aan mijn repository die 
 
 Belangrijk hierbij is dat de database niet automatisch werkt, omdat de connectionstring niet op Github wordt opgeslagen. Hiervoor zal ik naar Azure secrets moeten kijken, zodat deze veilig online kan worden opgeslagen.
 
- ![Alt text](../images/Azure.png)
+ ![Alt text](../Images/Azure.png)
 
 **Vercel**
 
 Om ook de front-end de hosten maak ik gebruik van Vercel. Hierbij is het mogelijk om de applicatie via een domein te benaderen. Wel is het zo dat mijn applicate in een organisation staat, en Vercel dit alleen met een pro-account toestaat. Hier moet ik een alternatief op verzinnen.
 
- ![Alt text](../images/vercel.png)
+ ![Alt text](../Images/Vercel.png)
 
  **Docker**
 
  Om de applicatie toegankelijker te maken voor andere developers, zijn er docker images gemaakt van de front-end en de back-end. Hier is ook een research document over geschreven waar meer informatie is te vinden.
 
-  ![Alt text](../images/docker.png)
+  ![Alt text](../Images/Docker.png)

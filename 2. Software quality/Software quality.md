@@ -58,7 +58,7 @@ Voor deze query zijn ook testen gemaakt om te controleren wat er gebeurd wanneer
 Om de veiligheid van de app te verbeteren is Auth0 geïmplementeerd.
 Dit heb ik gedaan door op de site van Auth0 een account aan te maken waarbij een lijst van accounts kan worden toegevoegd. Vervolgens wordt de gebruiker bij het inloggen naar de Auth0 site word gestuurd waar de app gebruikersinformatie terugkrijgt zoals een emailadres en profielfoto:
 
- ![Alt text](../images/Auth0front-end.png)
+ ![Alt text](../Images/Auth0front-end.png)
 
  dit is mogelijk door in index.js de Auth0 provider toe te voegen waarna de login en loguit functionaliteiten kunnen worden toegevoegd:
 

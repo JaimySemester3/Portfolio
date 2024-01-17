@@ -10,7 +10,7 @@ Omdat ik het ook lastig vond om een gratis mysql server te vinden, ben ik verder
 
 Omdat MongoDB een hele andere opzet heeft dan MYSQL, heb ik hier wel mijn hele back-end voor moeten veranderen.
 
-![Alt text](../images/Mongodb.png)
+![Alt text](../Images/Mongodb.png)
 
 **Service layer**
 
