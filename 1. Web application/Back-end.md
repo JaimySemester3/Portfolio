@@ -10,6 +10,8 @@ Omdat ik het ook lastig vond om een gratis mysql server te vinden, ben ik verder
 
 Omdat MongoDB een hele andere opzet heeft dan MYSQL, heb ik hier wel mijn hele back-end voor moeten veranderen.
 
+![Alt text](../images/Mongodb.png)
+
 **Service layer**
 
 Voor de Controller heb ik een service klasse aangemaakt die communiceert met de database:
@@ -55,3 +57,5 @@ Hierdoor blijft de controller beter gescheiden van de service, waardoor beide ma
     builder.Services.AddSingleton<ITaskService,TasksService>();
 
 Er is ook een aparte TaskDatabase klasse gemaakt die de connectionstring, database en collections ophaald voor de rest van de applicatie.
+
+
