@@ -70,4 +70,4 @@ Nu kan ik vanuit de individuele tasks de deleteknop gebruiken om deze in de Task
 
  Met deze functionaliteiten wordt de volgende lijst bewerkt:
 
- ![Alt text](../Images/Auth0front-end.png)
+ ![Alt text](../Images/Auth0Front_end.png)
