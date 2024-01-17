@@ -36,7 +36,7 @@ De reden dat deze build gebaseerd is op Ubuntu is omdat de meeste Docker contain
 
 Sonarcloud is een service waarmee je code quality analysis kunt uitvoeren. Wanneer er naar de main branch wordt gepushed, ontvange je op sonarcloud een rapport met een analyse.
 
- ![Alt text](../images/Sonarcloud.png)
+ ![Alt text](../Images/Sonarcloud.png)
 
 De workflow ziet er als volgt uit:
 
