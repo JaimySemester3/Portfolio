@@ -52,3 +52,26 @@ Voor deze query zijn ook testen gemaakt om te controleren wat er gebeurd wanneer
             var notFoundResult = Assert.IsType<NotFoundResult>(result.Result);
             Assert.Equal(404, notFoundResult.StatusCode);
         }
+
+**Auth0**
+
+Om de veiligheid van de app te verbeteren is Auth0 geïmplementeerd.
+Dit heb ik gedaan door op de site van Auth0 een account aan te maken waarbij een lijst van accounts kan worden toegevoegd. Vervolgens wordt de gebruiker bij het inloggen naar de Auth0 site word gestuurd waar de app gebruikersinformatie terugkrijgt zoals een emailadres en profielfoto:
+
+ ![Alt text](../images/Auth0front-end.png)
+
+ dit is mogelijk door in index.js de Auth0 provider toe te voegen waarna de login en loguit functionaliteiten kunnen worden toegevoegd:
+
+ const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+```
+  <Auth0Provider
+      domain="dev-l6zgzkm7kvwifn0f.us.auth0.com"
+      clientId="o4l9jBFG3zhKJU2zXyRu7dcpDfa88q0e"
+      authorizationParams={{
+        redirect_uri: window.location.origin
+      }}
+    >
+      <App />
+    </Auth0Provider>
+```

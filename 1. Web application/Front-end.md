@@ -67,3 +67,7 @@ Nu kan ik vanuit de individuele tasks de deleteknop gebruiken om deze in de Task
     </>
 
  Omdat de Tasklist ook direct wordt geüpdate in de delete functie wordt de useEffect aangeroepen en wordt de up to date lijst weergeven.
+
+ Met deze functionaliteiten wordt de volgende lijst bewerkt:
+
+ ![Alt text](../images/Auth0front-end.png)
