@@ -28,4 +28,14 @@ Het portfolio is opgedeeld per leeruitkomst, hier zal ik kort samenvatten welke 
 |Professionality|Outsourcing user story|
 |
 
+#### Reflectie
+
+Dit Semester heb ik vooral veel geleerd over de processes om het programmeren heen, zoals de veiligheid van een applicatie, de verschillende manieren van het hosten van de applicatie zoals Docker en Azure, en hoe de applicatie professioneel opgezet kan zijn zodat een andere programmeur er makkelijk mee door kan werken doormiddel van de documentatie.
+
+Wat vooral een leerpunt was voor mij dit semester was persoonlijke planning en ownership. Er was een punt in het semester waarin ik niet wist welke stappen ik het beste kon zetten en hoe ik ze het beste kon organiseren. Hier heb ik mij uiteindelijk overheen kunnen zetten door concrete kleinere stappen voor mijzelf te formuleren en dit ook in een realistische planning binnen een sprint op te plannen. Hierdoor lukte het mij om elke oplevering consistent mijn geplande vooruitgang te laten zien.
+
+Uiteindelijk ben ik heel tevreden met het semester, ik heb mijzelf over de problemen heen kunnen zetten en veel verschillende onderdelen op kunnen leveren. 
+
+Ik zijn ook nog veel persoonlijke reflecties op de individuele sprints in de Feedpulse checkpoints.
+
 
