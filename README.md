@@ -28,5 +28,4 @@ Het portfolio is opgedeeld per leeruitkomst, hier zal ik kort samenvatten welke 
 |Professionality|Outsourcing user story|
 |
 
-#### Reflectie
 
