@@ -5,14 +5,18 @@ In dit portfolio zijn alle producten verzameld uit het individuele project en gr
 
 #### Github repository
 
-In de volgende organisation zijn de repositories voor de front-end en back-end te vinden:
+In de volgende organisation zijn de repositories voor de front-end en back-end te vinden van mijn persoonlijke project:
 https://github.com/JaimySemester3
+
+Voor het groepsproject is de volgende organisation gebruikt:
+https://github.com/Colleak
+De belangrijke losse documentatie staat ook in mijn eigen portfolio. De specifieke component gerelateerde documentatie staat bij de relevante component:
 
 #### Leerdoelen
 
-Het portfolio is opgedeeld per leerdoel, hier zal ik kort samenvatten welke producten er bij elk leerdoel is te vinden.
+Het portfolio is opgedeeld per leeruitkomst, hier zal ik kort samenvatten welke producten er bij elke leeruitkomst is te vinden.
 
-| Leerdoel | Producten | 
+| Leeruitkomst | Producten | 
 |----------|----------|
 | Web application | Uitleg stack, toelichting front-end, back-end en database, Azure research Spike |
 |Software quality| Structuur unit tests, Auth0, Research Azure Keys
@@ -23,3 +27,6 @@ Het portfolio is opgedeeld per leerdoel, hier zal ik kort samenvatten welke prod
 |Business processes|Uitleg user story mapping|
 |Professionality|Outsourcing user story|
 |
+
+#### Reflectie
+
